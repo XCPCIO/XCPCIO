@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://xcpcio.com/</loc>
+     <loc>https://xcpcio.com/home/</loc>
+     <lastmod>2020-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://xcpcio.com/home/about/</loc>
+     <lastmod>2020-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://xcpcio.com/home/htc/</loc>
+     <lastmod>2020-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://xcpcio.com/home/format/</loc>
+     <lastmod>2020-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://xcpcio.com/home/faq/</loc>
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -92,11 +108,15 @@
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://xcpcio.com/code-library/open-source-code-library-list/</loc>
+     <loc>https://xcpcio.com/code-library/code-library-list/</loc>
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://xcpcio.com/about/how-to-deploy/</loc>
+     <loc>https://xcpcio.com/code-library/code-library-build/</loc>
+     <lastmod>2020-10-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://xcpcio.com/blog/how-to-deploy/</loc>
      <lastmod>2020-10-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
